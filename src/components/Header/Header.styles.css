@@ -1,0 +1,8 @@
+header {
+  height: 4rem;
+  background-color: #6200ea;
+}
+
+.filter, .add{
+  cursor: pointer;
+}
